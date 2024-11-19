@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elda7ee7" alt="elda7ee7" /></a> </p>
 
-- 🌱 I’m currently learning **Game Development with Unity**
-
 - 📫 How to reach me **mazenmohamedabd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-sHV1Hqpxcj4HEzKs9IqHDQ_HGoq-6-E/view?usp=drive_link](https://drive.google.com/file/d/1-sHV1Hqpxcj4HEzKs9IqHDQ_HGoq-6-E/view?usp=drive_link)
