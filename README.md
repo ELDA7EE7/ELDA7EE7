@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mazen Mohamed</h1>
 <h3 align="center">A Computer Science student at Ain Shams University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elda7ee7" alt="elda7ee7" /></a> </p>
 
 - 📫 How to reach me **mazenmohamedabd@gmail.com**
 
@@ -19,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elda7ee7&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elda7ee7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elda7ee7&show_icons=true&theme=dracula&locale=en" alt="elda7ee7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elda7ee7&theme=dark" alt="elda7ee7" /></p>
